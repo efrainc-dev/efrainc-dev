@@ -2,7 +2,6 @@
 
 ```yaml
 role: "Software Engineer | Backend & Integrations"
-location: "Kaunas, Lithuania (EU)"
 experience: "5+ years software & infrastructure automation (+3 yrs prior IT systems)"
 stack:
   languages: ["TypeScript", "JavaScript (ES6+)", "SQL", "Python", "Bash"]
